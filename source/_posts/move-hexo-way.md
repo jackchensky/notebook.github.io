@@ -217,4 +217,12 @@ git push -u origin master
 ```
 git push
 ```
-这样你就不用害怕你的` Hexo `博客文件哪天突然丢失啦~
+
+如果` git `提示这个 `fatal: remote origin already exists `是因为你可能之前有添加过远程` git `库，先删除掉远程库
+
+```
+git remote rm origin
+```
+然后用上面的方法重新添加就可以了
+
+OK 👌 .. 这样你就不用害怕你的` Hexo `博客文件哪天突然丢失啦~
