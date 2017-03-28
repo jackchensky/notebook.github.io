@@ -76,3 +76,14 @@ links_title: Links
 # links
 links:
   轻素材: http://qingsucai.com/
+
+# algolia:
+#   applicationID: '4XTJIZ4A6W'
+#   apiKey: 'e15a9a8717a483f35cf2e79a2816e7d7'
+#   adminApiKey: '9fa3df911197bd24b4110c386a8fa88f'
+#   indexName: 'notebook_NAME'
+#   chunkSize: 5000
+
+# search:
+#   path: search.xml
+#   field: post
